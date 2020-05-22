@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\lbAPS7\lbAPS7\bin\Debug\netcoreapp3.0\lbAPS7.exe
+C:\Users\Admin\source\repos\lbAPS7\lbAPS7\bin\Debug\netcoreapp3.0\lbAPS7.deps.json
+C:\Users\Admin\source\repos\lbAPS7\lbAPS7\bin\Debug\netcoreapp3.0\lbAPS7.runtimeconfig.json
+C:\Users\Admin\source\repos\lbAPS7\lbAPS7\bin\Debug\netcoreapp3.0\lbAPS7.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\lbAPS7\lbAPS7\bin\Debug\netcoreapp3.0\lbAPS7.dll
+C:\Users\Admin\source\repos\lbAPS7\lbAPS7\bin\Debug\netcoreapp3.0\lbAPS7.pdb
+C:\Users\Admin\source\repos\lbAPS7\lbAPS7\obj\Debug\netcoreapp3.0\lbAPS7.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\lbAPS7\lbAPS7\obj\Debug\netcoreapp3.0\lbAPS7.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\lbAPS7\lbAPS7\obj\Debug\netcoreapp3.0\lbAPS7.AssemblyInfo.cs
+C:\Users\Admin\source\repos\lbAPS7\lbAPS7\obj\Debug\netcoreapp3.0\lbAPS7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\lbAPS7\lbAPS7\obj\Debug\netcoreapp3.0\lbAPS7.dll
+C:\Users\Admin\source\repos\lbAPS7\lbAPS7\obj\Debug\netcoreapp3.0\lbAPS7.pdb
+C:\Users\Admin\source\repos\lbAPS7\lbAPS7\obj\Debug\netcoreapp3.0\lbAPS7.genruntimeconfig.cache

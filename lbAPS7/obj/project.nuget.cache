@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "D0oN3afWvPqqAI3MzQveo+lqr2JtyMhziN7BspvHVCaE5fNdVNj5r3PX56Trb8fouphCbH4QmYk9plsTFsrj8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\lbAPS7\\lbAPS7\\lbAPS7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
